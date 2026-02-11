@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Track custom commands
+!commands/
+!commands/**
+
+# Track this gitignore
+!.gitignore
