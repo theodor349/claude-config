@@ -49,6 +49,7 @@ Example: `42-add-dark-mode`
 - ALWAYS ask questions if anything is unclear or ambiguous
 - Never commit without explicit human approval
 - Do not include unrelated refactors
+- If asked to read files locally, make sure you are on the right branch (main if you have not created a new already)
 
 
 ```
