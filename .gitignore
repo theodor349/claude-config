@@ -1,14 +1,5 @@
 # Ignore everything by default
 *
 
-# Track custom commands
-!commands/
-!commands/**
-
-# Track the daily 7am scheduled script
-!daily-7am-claude/
-!daily-7am-claude/run.sh
-!daily-7am-claude/com.theodor349.daily7am.plist
-
 # Track this gitignore
 !.gitignore
